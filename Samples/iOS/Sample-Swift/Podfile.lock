@@ -1,0 +1,15 @@
+PODS:
+  - FluctSDK (4.5.0)
+  - Google-Mobile-Ads-SDK (7.19.0)
+
+DEPENDENCIES:
+  - FluctSDK (~> 4.5)
+  - Google-Mobile-Ads-SDK
+
+SPEC CHECKSUMS:
+  FluctSDK: af96fe5f6968f96f7cdb8b2eb9a8e9364e4a3170
+  Google-Mobile-Ads-SDK: d1bcdbd8347a105a687345b8511701172a5074e9
+
+PODFILE CHECKSUM: 63d6251c280374ad2ff64b9b7823cfdf0bc89f32
+
+COCOAPODS: 1.2.1
