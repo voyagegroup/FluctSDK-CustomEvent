@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sample-Java</string>
+    <string name="ad_unit_id_banner">任意のバナー用広告ユニットコードを記述して下さい</string>
+    <string name="ad_unit_id_interstitial">任意のインタースティシャル用用広告ユニットコードを記述して下さい</string>
+</resources>
